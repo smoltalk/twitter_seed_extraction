@@ -20,4 +20,5 @@ It should look something like
 4. Make the script executable  
 `chmod 755 seeder.sh`  
 
-5. 
+5. Run the script  
+`./seed.sh`
