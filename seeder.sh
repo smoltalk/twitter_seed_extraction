@@ -12,4 +12,4 @@ sleep 10
 # "user" is a separate file that is a simple list of usernames
 done < user
 
-
+# improve the output
