@@ -3,9 +3,10 @@
 # Wrapper for Twitter info extraction
 This bash shell script takes a pre-curated (curated by you) list of Twitter accounts and extracts basic information about each account using the python tool [Twint](https://github.com/twintproject/twint), so you don't have to look the info up one-by-one.
 
-What kind of account info? Twint can look up all sorts of things, but in the case of this script we're asking it to look up Following number, Followers number, bio.
-
-This script has been tested on Ubuntu 19.10, but uses pretty conventional bash parts and should run anywhere bash and Python can.
+What kind of account info? Twint can look up all sorts of things, but in the case of this script we're asking it to look up  
+* Following number
+* Followers number
+* Twitter bio
 
 ### Prerequisites 
 
@@ -26,6 +27,9 @@ It should look something like
 
 5. Run the script  
 `./seed.sh`
+
+
+This script has been tested on Ubuntu 19.10, but uses pretty conventional bash parts and should run anywhere bash and Python can.
 
 ### Doc to-do
 
