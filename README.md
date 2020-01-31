@@ -33,4 +33,4 @@ This script has been tested on Ubuntu 19.10, but uses pretty conventional bash p
 
 ### Doc to-do
 
-* cover copying or gitting file over to system
+* cover copying or using git to get file to user's local system
